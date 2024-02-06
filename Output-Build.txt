@@ -1,0 +1,4 @@
+﻿Build started...
+1>------ Build started: Project: Pharmacy_Management_System, Configuration: Debug Any CPU ------
+1>C:\PROJECT Com&Bit\Pharmacy_Management_System\Pharmacy_Management_System\AdminstratorUC\UC_AddUser.Designer.cs(197,74,197,97): error CS1061: 'UC_AddUser' does not contain a definition for 'txtMobileNo_TextChanged' and no accessible extension method 'txtMobileNo_TextChanged' accepting a first argument of type 'UC_AddUser' could be found (are you missing a using directive or an assembly reference?)
+========== Build: 0 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
